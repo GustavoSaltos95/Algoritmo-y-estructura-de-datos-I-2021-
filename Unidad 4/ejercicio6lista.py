@@ -19,4 +19,4 @@ try:
     edades.sort()
     print(f'La edad mayor ingresada es {edades[-1]}\nLa lista completa es: {edades}') 
 except:
-    print('Error')       
+    print('Tenes que escribir un numero.')       
